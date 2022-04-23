@@ -6,4 +6,4 @@
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](https://github.com/devbewill/purplesfn-vscode-theme/LICENSE)
