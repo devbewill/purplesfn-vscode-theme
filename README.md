@@ -4,10 +4,6 @@
 
 ![Screenshot](https://github.com/devbewill/purplesfn-vscode-theme/blob/main/screenshot.png)
 
-## Contributing
-
-If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
-
 ## License
 
 [MIT License](./LICENSE)
