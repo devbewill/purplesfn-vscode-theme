@@ -2,8 +2,8 @@
   "name": "purplesfn",
   "displayName": "Purplesfn",
   "description": "PurplePinkFluo",
-  "publisher": "Purplesfn",
-  "version": "0.0.1",
+  "publisher": "purplesfn",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.66.0"
   },
