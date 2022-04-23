@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
+![Screenshot](https://github.com/devbewill/purplesfn-vscode-theme/blob/main/screenshot.png)
 
 ## Install
 
