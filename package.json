@@ -3,13 +3,14 @@
   "displayName": "Purplesfn",
   "description": "PurplePinkFluo",
   "publisher": "purplesfn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
