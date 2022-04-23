@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "purplesfn"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Purplesfn for [Visual Studio Code](http://code.visualstudio.com)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
 
-**Enjoy!**
+## Install
+
+All instructions can be found at [draculatheme.com/visual-studio-code](https://draculatheme.com/visual-studio-code).
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors).
+
+| [![Derek S.](https://avatars3.githubusercontent.com/u/5240018?v=3&s=70)](https://github.com/dsifford) |
+| :---------------------------------------------------------------------------------------------------: |
+|                                [Derek S.](https://github.com/dsifford)                                |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## Contributing
+
+If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
+
+## License
+
+[MIT License](./LICENSE)
